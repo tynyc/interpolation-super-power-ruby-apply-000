@@ -11,3 +11,5 @@ colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
   puts "V: #{colors[6]}""
 
 end
+
+display_rainbow
